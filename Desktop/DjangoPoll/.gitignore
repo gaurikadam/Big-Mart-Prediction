@@ -1,0 +1,5 @@
+polls/migrations/0002_articles_publication.py
+polls/migrations/0003_auto_20200831_1203.py
+
+polls/migrations/__pycache__/0002_articles_publication.cpython-36.pyc
+polls/migrations/__pycache__/0003_auto_20200831_1203.cpython-36.pyc
